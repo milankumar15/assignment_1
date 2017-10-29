@@ -5,5 +5,8 @@ modifying file_1 for doing task 2.
 this is the online modified file.
 changing in sub_branch_1
 for task 3 first part.
+modifications are happening for task 3 part 2.
+and this modification is happening in sub_branch_2.
 now modification in master branch for displaying task 3 part 2.
 file_2 is not going to change in any tasks.
+conflicts is resolved by adding all extra lines of both.
